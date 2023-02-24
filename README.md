@@ -48,7 +48,7 @@
 <br/>
 
 <a href="https://github.com/cassianojr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassianojr&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassianojr&theme=chartreuse-dark&show_icons=true" />
 </a>
 
 <br/>
