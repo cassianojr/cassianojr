@@ -59,4 +59,4 @@
 
 [![Linkedin: cassianojr](https://img.shields.io/badge/-cassianojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/cassianojr)](https://linkedin.com/in/cassianojr)
 [![Gmail Badge](https://img.shields.io/badge/-cassiano.jr.2009@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassiano.jr.2009@hotmail.com)](mailto:cassiano.jr.2009@hotmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/cassianojr?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub cassianojr](https://img.shields.io/github/followers/cassianojr?label=follow&style=social)](https://github.com/cassianojr)
