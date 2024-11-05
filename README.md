@@ -4,7 +4,6 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://www.marinha.mil.br/">Universidade Federal do Estado do Rio de Janeiro - UNIRIO</a>.
 - 💼 &nbsp; Contribuindo para um projeto de pesquisa no Laboratório de Engenharia de Sistemas Complexos da UNIRIO
-- 🌱 &nbsp; Aprendendo mais sobre Deep Learning, DevOps e Typescript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
